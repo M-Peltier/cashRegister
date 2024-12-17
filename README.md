@@ -12,6 +12,7 @@ Tracks the total amount of purchases.
 Accepts payments in various denominations.
 Calculates the change due to the customer.
 Resets after each transaction for the next customer.
+
 Key Takeaways:
 OOP Principles: The program is object-oriented, encapsulating functionality in the CashRegister class and using constants for denomination values.
 Reusability: The CashRegister class can be reused for multiple transactions by resetting after each operation.
